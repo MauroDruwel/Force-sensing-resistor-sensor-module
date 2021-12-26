@@ -7,7 +7,7 @@ The example program reads the analog signal output from the S-pin on the module 
 * None
 
 ## Wiring diagram
-![](./wiring_diagram_bb.png)
+![](./wiring_diagram.png)
 
 ## Additional information
   For more information about the Whadda WPSE477 force sensing resistor sensor module, check the manual available at [whadda.com](https://whadda.com)
